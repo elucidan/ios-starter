@@ -1,0 +1,5 @@
+"hello_message" = "Hello, This is the starter app";
+"changed_hello_message" = "This has now changed";
+"text_button" = "Change Message";
+"fetch_data" = "Press to fetch data";
+"switch_screen" = "Press to switch screen";
