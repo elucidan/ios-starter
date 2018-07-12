@@ -1,0 +1,12 @@
+/* 
+  InitialPage.strings
+  VanillaSwiftStarter
+
+  Created by David Boyle on 12/07/2018.
+  Copyright © 2018 elucidan. All rights reserved.
+*/
+"hello_message" = "Hello, This is the starter app";
+"changed_hello_message" = "This has now changed";
+"text_button" = "Change Message";
+"fetch_data" = "Press to fetch data";
+"switch_screen" = "Press to switch screen";
