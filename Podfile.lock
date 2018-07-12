@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AlamofireNetworkActivityIndicator (2.2.1):
+    - Alamofire (~> 4.7)
+  - Dip (6.1)
+  - Dip-UI (2.0):
+    - Dip (~> 6.0)
+  - Font-Awesome-Swift (1.7.2)
+  - ReSwift (4.0.1)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireImage (~> 3.3)
+  - AlamofireNetworkActivityIndicator (~> 2.2)
+  - Dip
+  - Dip-UI
+  - Font-Awesome-Swift (~> 1.7.2)
+  - ReSwift
+  - SwiftKeychainWrapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireNetworkActivityIndicator
+    - Dip
+    - Dip-UI
+    - Font-Awesome-Swift
+    - ReSwift
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AlamofireNetworkActivityIndicator: aeac50e6ecb78ec71a5f1f29098bcf4ec2962910
+  Dip: e6af9f4e7644e1a142995c1ab0bffa61351a849d
+  Dip-UI: 80616044fdf76a86f6504d33d5f0b20c82df71e3
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 7ffc0adce4bc363705c75ed11a33248d1139be68
+
+COCOAPODS: 1.5.3
